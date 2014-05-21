@@ -1,4 +1,4 @@
-MyCodeIgniter
+MyidCodeIgniter
 =============
 
 Myid CI Personal Config
